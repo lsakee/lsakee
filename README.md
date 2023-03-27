@@ -3,6 +3,8 @@
 <!--
 **lsakee/lsakee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -17,6 +19,15 @@ Here are some ideas to get you started:
 
 <div align="center">
  
+<table><tr><td valign="top" width="50%">
+
+https://user-images.githubusercontent.com/60564431/224700910-6c5e195e-507f-4380-863e-0fb9a46b7a63.mp4
+
+</td><td valign="top" width="50%">
+  
+![](https://user-images.githubusercontent.com/60564431/224702333-184dcd1e-ce43-439e-9951-19d01080287f.gif)
+
+</td></tr></table>
 
 ## Tech Stack
 
