@@ -1,4 +1,4 @@
-### 안드삭입니다 👋
+
 
 <!--
 **lsakee/lsakee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,16 +21,13 @@ Here are some ideas to get you started:
  
 <table><tr><td valign="top" width="50%">
 
-https://user-images.githubusercontent.com/60564431/224700910-6c5e195e-507f-4380-863e-0fb9a46b7a63.mp4
-
-</td><td valign="top" width="50%">
-  
-![](https://user-images.githubusercontent.com/60564431/224702333-184dcd1e-ce43-439e-9951-19d01080287f.gif)
+![](https://github.com/lsakee/lsakee/assets/93514333/99fbec67-bcc1-42df-a6f1-93d52f78d304)
 
 </td></tr></table>
 
-## Tech Stack
+### 안드삭입니다 👋
 
+## Tech Stack
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
