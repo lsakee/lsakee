@@ -16,12 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <div align="center">
  
 <table><tr><td valign="top" width="50%">
 
-![](https://github.com/lsakee/lsakee/assets/93514333/99fbec67-bcc1-42df-a6f1-93d52f78d304)
+![](https://github.com/lsakee/lsakee/assets/93514333/0b048245-f32e-4f32-bff2-a8bcc65eace1)
 
 </td></tr></table>
 
