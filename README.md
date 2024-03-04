@@ -17,12 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
- 
-<table><tr><td valign="top" width="50%">
 
-![](https://github.com/lsakee/lsakee/assets/93514333/0b048245-f32e-4f32-bff2-a8bcc65eace1)
-
-</td></tr></table>
 
 ### 안드삭입니다 👋
 
