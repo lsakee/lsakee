@@ -34,10 +34,8 @@ Here are some ideas to get you started:
   - [PPP-CLUB/ Android - Play Store](https://play.google.com/store/apps/details?id=com.indipage&hl=ko-KR)
 - 2023.08 ~ 2023.11 Easy-Vel, 모바일로 쉽게 보는 벨로그 <br>
   - [EasyVel/ Android - Repository](https://github.com/SSUDevelog/Velog-Android)<br>
-  - [EasㅛVel/ Android - Play Store](https://play.google.com/store/apps/details?id=com.velogandroid&hl=ko-KR)
+  - [EasyVel/ Android - Play Store](https://play.google.com/store/apps/details?id=com.velogandroid&hl=ko-KR)
 - 2023.09 수라상 - 수원대학교 학식 앱  <br>
   - [수라상 - Repository](https://github.com/Sulasang/Android_V1)
   - [수라상/ Android - Play Store](https://play.google.com/store/apps/details?id=com.lsakee.suwon_sulasang&hl=ko-KR)
-<br>
-<br>
 <br>
