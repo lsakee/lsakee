@@ -36,9 +36,7 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flsakee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![16165d857304bc131](https://github.com/lsakee/lsakee/assets/93514333/5b1d801d-81bf-41d5-8602-5c327afa778d)
-
-![16165d858444bc131](https://github.com/lsakee/lsakee/assets/93514333/c5684378-878b-4bf3-b32e-69fff6244ee1)
+![16165d85b2b4bc131](https://github.com/lsakee/lsakee/assets/93514333/261b2d60-93fd-4098-bed2-3fe5599284fb)
 
 <h1></h1>
 
